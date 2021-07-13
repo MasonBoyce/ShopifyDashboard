@@ -7,11 +7,6 @@ const Index = () => (
       content: "Select products",
       onAction: () => console.log("clicked"),
     }}
-    title="Product Selector 2"
-    primaryAction={{
-      content: "Select products",
-      onAction: () => console.log("clicked"),
-    }}
   />
 );
 
